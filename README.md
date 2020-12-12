@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Preview App
+<a href = "https://clone-telegram.vercel.app/">Click Here</a>
 ## Available Scripts
 
 In the project directory, you can run:
