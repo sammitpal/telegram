@@ -1,0 +1,15 @@
+.chatItem{
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 20px;
+}
+.chatItem > h3{
+    margin-left: 20px;
+}
+.chatItem:hover{
+    background-color: gray;
+}
+a{
+    text-decoration: none;
+}

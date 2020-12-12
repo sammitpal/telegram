@@ -1,0 +1,18 @@
+.login{
+    background-color: #ccc !important;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login_card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: -1px -1px 10px -4px rgba(0, 0, 0, 0.5);
+    padding: 100px;
+    background-color: #fff;
+    border-radius: 30px;
+}

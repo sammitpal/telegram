@@ -1,0 +1,25 @@
+.footer{
+    background: #2b2b2b;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+.footer > input{
+    flex: 1;
+    background: transparent;
+    border: none;
+    color: white;
+}
+.footer > input:focus{
+    outline: none;
+}
+.footer > .MuiSvgIcon-root{
+    color: gray !important;
+}
+.footer_submit{
+    display: none !important;
+}
+.footer_mic:hover{
+    cursor: pointer !important;
+    color: #fff !important;
+}
